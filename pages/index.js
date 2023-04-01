@@ -34,14 +34,14 @@ export default function Home({ posts }) {
             <div className="text-lg leading-8 text-gray-600 dark:text-gray-400">
               <h1 className="text-neutral-900 dark:text-neutral-200">
                 I'm <span className="font-medium">Sushmeeta S</span> - a{' '}
-                <span className="font-medium">Software Engineer</span> in{' '}
+                <span className="font-medium">Analyst</span> in{' '}
                 <span className="align-middle flag-vn">
                   <Twemoji emoji="flag-vietnam" />
                 </span>
               </h1>
               <TypedBios />
               <p className="mt-4 mb-8">
-                I'm writing this blog to share what I've learned in Software Engineering
+                I'm writing this blog to share what I've learned and my experience
               </p>
               <div className="flex flex-col">
                 <Link href="/projects" className="hover:underline">

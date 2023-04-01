@@ -1,11 +1,11 @@
 const timelineData = [
   {
-    time: 'Aug 2021 - now',
-    role: 'Self-employed',
+    time: 'Mar 2023 - now',
+    role: 'Analyst',
   },
   {
     time: 'July 2018 - Aug 2021',
-    role: 'Software Engineer',
+    role: 'Process Associate',
     company: 'TCS',
     companyURL: 'https://tcs.com/',
     works: [
