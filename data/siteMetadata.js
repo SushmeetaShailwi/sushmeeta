@@ -14,8 +14,8 @@ const siteMetadata = {
   email: 'sushmeeta00@gmail.com',
   github: 'https://github.com/sushmeetaa',
   twitter: 'https://twitter.com/',
-  facebook: 'https://facebook.com/hta218',
-  youtube: 'https://www.youtube.com/channel/UCHXjj6ewfDIjx_Op3hqijlg',
+  facebook: 'https://facebook.com',
+  youtube: 'https://www.youtube.com',
   linkedin: 'https://www.linkedin.com/in/sushmeeta',
   locale: 'en-US',
   analytics: {
